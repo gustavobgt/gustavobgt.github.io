@@ -10564,13 +10564,14 @@ section.resume-section .resume-section-content {
  * Links
  */
 .pages-link {
-    border: 1px dashed lightgray;
+    border: 2px dashed lightgray;
     padding: 1px 5px;
     border-radius: 10px;
     margin-right: 20px;
 }
 
 a.pages-link:hover {
+    border: 2px solid lightgray;
     background-color: #3c40c6;
     color: white;
     text-decoration: none;
@@ -10583,6 +10584,7 @@ a.pages-link:hover {
 .logo-links {
     border: 2px solid #848ae7;
     border-radius: 50%;
+    box-shadow: 0px 0px 3px 0.1px black;
 }
 
 a img.logo-links:hover {
