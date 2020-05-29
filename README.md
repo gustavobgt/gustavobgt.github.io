@@ -10,7 +10,7 @@
 
 Se trata de um site de apresentação pessoal com o objetivo de mostrar de uma forma fácil e elegante o meu perfil profissional, minhas habilidades, projetos e um pouco sobre os interesses que tenho fora do ambiente de trabalho.
 
-## Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 
 -   HTML5
 -   CSS3
