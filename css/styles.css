@@ -10575,6 +10575,7 @@ a.pages-link:hover {
     background-color: #3c40c6;
     color: white;
     text-decoration: none;
+    transition: all 1s;
 }
 
 .pages-link-container {
@@ -10589,4 +10590,6 @@ a.pages-link:hover {
 
 a img.logo-links:hover {
     border: 2px solid #3c40c6;
+    box-shadow: 0px 0px 3px 0.5px #3c40c6;
+    transition: all 1s;
 }
