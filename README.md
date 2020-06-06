@@ -19,4 +19,4 @@ Se trata de um site de apresentação pessoal com o objetivo de mostrar de uma f
 
 ## 🌐 Links
 
--   [Website](gustavobgt.github.io)
+-   [Website](https://gustavobgt.github.io/)
